@@ -1,0 +1,51 @@
+button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+button:hover {
+  font-weight: bolder;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #cd0000;
+}
+h2,
+h4 {
+  color: #2f66f6;
+}
+h3 {
+  color: #000;
+  font-family: "Montserrat-SemiBold";
+  font-size: 52px;
+  line-height: 63px;
+  text-align: left;
+}
+h5 {
+  color: #cd0000;
+  text-align: center;
+  font-family: "NotoSerif-Bold";
+  font-size: 40px;
+  font-weight: 700;
+}
+h6 {
+  color: #0a0f29;
+  font-family: "Lato-Bold";
+  font-size: 36px;
+}
+th {
+  font-family: "Nunito-Regular";
+  font-size: 20px;
+  color: #949494;
+}
+input,
+textarea {
+  cursor: pointer;
+  border: none;
+  background: none;
+}

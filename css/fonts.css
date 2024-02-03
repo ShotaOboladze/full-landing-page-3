@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "Lato-Regular";
+  src: local("Lato-Regular");
+  src: url(../fonts/Lato-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lato-Bold";
+  src: local("Lato-Bold");
+  src: url(../fonts/Lato-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Nunito-Regular";
+  src: local("Nunito-Regular");
+  src: url(../fonts/Nunito-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Nunito-SemiBold";
+  src: local("Nunito-SemiBold");
+  src: url(../fonts/Nunito-SemiBold.ttf);
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: local("Montserrat-Regular");
+  src: url(../fonts/Montserrat-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat-SemiBold";
+  src: local("Montserrat-SemiBold");
+  src: url(../fonts/Montserrat-SemiBold.ttf);
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: local("Montserrat-Bold");
+  src: url(../fonts/Montserrat-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins-Regular";
+  src: local("Poppins-Regular");
+  src: url(../fonts/Poppins-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins-Bold";
+  src: local("Poppins-Bold");
+  src: url(../fonts/Poppins-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NotoSerif-Regular";
+  src: local("NotoSerif-Regular");
+  src: url(../fonts/NotoSerif-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NotoSerif-Bold";
+  src: local("NotoSerif-Bold");
+  src: url(../fonts/NotoSerif-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
